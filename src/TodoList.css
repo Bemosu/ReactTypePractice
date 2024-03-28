@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.TodoListcontanier{
+    height: 700px;
+    width: 700px;
+
+}
+.TodoListtitle{
+    width: 700px;
+    
+}
